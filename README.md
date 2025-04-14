@@ -1,24 +1,47 @@
- 👋 Hi, I'm Chetan Yogesh Wagh
+💻 Hello, I'm Chetan Yogesh Wagh!
 
-A passionate Python Developer from India 🇮🇳
+Python Enthusiast | Data Science Aficionado | Problem Solver
+🚀 Turning Data into Insights, and Insights into Impact.
 
-🔭 I’m currently learning Python, Data Analytics, and Data Science 
-📊 Exploring fields like EDA, Machine Learning, and Visualization  
-💬 Ask me about:  
-&nbsp;&nbsp;&nbsp;&nbsp;💡 Python Programming  
-&nbsp;&nbsp;&nbsp;&nbsp;📈 Data Analytics & Visualization  
-&nbsp;&nbsp;&nbsp;&nbsp;🧠 Machine Learning Basics  
+🔍 What I'm Up To:
+🧠 Deep Dive into Python, Data Science, and Analytics
 
-📫 How to reach me:  
-✉️ chetanywagh27@gmail.com 
+📊 Passionate about Exploratory Data Analysis (EDA), Machine Learning, and Data Visualization
 
-🎉 Fun fact: I love learning through real-world projects & memes 😄
+🌱 Constantly Evolving with real-world projects & challenges to sharpen my skills.
+
+💬 I Can Help You With:
+🐍 Python Programming – From Beginner to Advanced
+
+📈 Data Analytics & Visualization – Transforming raw data into actionable insights
+
+🤖 Machine Learning Basics – Building the foundation for smarter decision-making
+
+📬 Get in Touch:
+✉️ Email: chetanyogeshwagh@gmail.com
+
+🔗 Connect with Me:
 
 
+⚙️ My Tools & Technologies:
+Python: The magic behind everything 🧙‍♂️
 
- 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chetan-wagh27/) 
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/chetanywagh27) 
+Pandas: Data wrangling like a pro 🧹
+
+NumPy: Matrix manipulation made easy
+
+Scikit-learn: Building Machine Learning models with flair
+
+Matplotlib & Seaborn: Visualizing data like art 🎨
+
+Git: Version control made simple
+
+📊 My GitHub Stats:
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chetan-wagh&show_icons=true&theme=dark" width="45%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan-wagh&layout=compact&theme=dark" width="45%" /> </p>
+🎉 Fun Fact:
+I learn best through real-world projects and memes. Yes, memes! 😄 They make the learning journey way more fun.
+
+
 
 -
 

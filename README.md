@@ -77,8 +77,6 @@ Git: Version control made simple
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chetan-wagh&show_icons=true&theme=tokyonight" width="45%" />
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan-wagh&layout=compact&theme=tokyonight" width="45%" />
 </p>
 
 

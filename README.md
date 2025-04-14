@@ -1,6 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Turning+Data+Into+Insights%2C+And+Insights+Into+Impact." alt="Typing SVG" />
-
-# 👋 Hi, I'm Chetan Yogesh Wagh
+ 👋 Hi, I'm Chetan Yogesh Wagh
 
 A passionate Python Developer from India 🇮🇳
 

@@ -75,9 +75,11 @@ Git: Version control made simple
 
  📈 GitHub Stats
 
+  ![Chetan GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+ 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chetan-wagh&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan-wagh&layout=compact&theme=tokyonight&exclude_repo=DataAnalyst-Repo,DataScience-Repo" width="45%" />
 </p>
 
 

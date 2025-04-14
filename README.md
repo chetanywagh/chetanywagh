@@ -55,12 +55,19 @@ Git: Version control made simple
  🛠️ Languages and Tools:
 
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=matplotlib)
+
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn)
+
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
 
@@ -70,6 +77,7 @@ Git: Version control made simple
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chetan-wagh&show_icons=true&theme=tokyonight" width="45%" />
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan-wagh&layout=compact&theme=tokyonight" width="45%" />
 </p>
 

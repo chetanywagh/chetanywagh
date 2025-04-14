@@ -10,11 +10,11 @@ A passionate Python Developer from India 🇮🇳
 &nbsp;&nbsp;&nbsp;&nbsp;🧠 Machine Learning Basics  
 
 📫 How to reach me:  
-✉️ chetanywagh27@gmail.com (your default email as per saved info)
+✉️ chetanywagh27@gmail.com 
 
 🎉 Fun fact: I love learning through real-world projects & memes 😄
 
----
+
 
  🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chetan-wagh27/) 

@@ -1,26 +1,39 @@
 💻 Hello, I'm Chetan Yogesh Wagh!
 
+
 Python Enthusiast | Data Science Aficionado | Problem Solver
 🚀 Turning Data into Insights, and Insights into Impact.
+
 
 🔍 What I'm Up To:
 🧠 Deep Dive into Python, Data Science, and Analytics
 
+
 📊 Passionate about Exploratory Data Analysis (EDA), Machine Learning, and Data Visualization
 
+
 🌱 Constantly Evolving with real-world projects & challenges to sharpen my skills.
+
 
 💬 I Can Help You With:
 🐍 Python Programming – From Beginner to Advanced
 
 📈 Data Analytics & Visualization – Transforming raw data into actionable insights
 
+
 🤖 Machine Learning Basics – Building the foundation for smarter decision-making
+
 
 📬 Get in Touch:
 ✉️ Email: chetanyogeshwagh@gmail.com
 
-🔗 Connect with Me:
+
+🌐 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chetan-wagh27/) 
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/chetanywagh27) 
+
 
 
 ⚙️ My Tools & Technologies:
@@ -36,6 +49,8 @@ Matplotlib & Seaborn: Visualizing data like art 🎨
 
 Git: Version control made simple
 
+
+
 📊 My GitHub Stats:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chetan-wagh&show_icons=true&theme=dark" width="45%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan-wagh&layout=compact&theme=dark" width="45%" /> </p>
 🎉 Fun Fact:
@@ -43,9 +58,10 @@ I learn best through real-world projects and memes. Yes, memes! 😄 They make t
 
 
 
--
 
-## 🛠️ Languages and Tools:
+
+
+ 🛠️ Languages and Tools:
 
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
@@ -58,6 +74,7 @@ I learn best through real-world projects and memes. Yes, memes! 😄 They make t
 
 
 
+
  📈 GitHub Stats
 
 <p align="center">
@@ -67,4 +84,4 @@ I learn best through real-world projects and memes. Yes, memes! 😄 They make t
 
 
 
-Thanks for visiting my profile! 
+Thanks for visiting my profile! 😊😊

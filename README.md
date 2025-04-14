@@ -25,7 +25,7 @@ Python Enthusiast | Data Science Aficionado | Problem Solver
 
 
 📬 Get in Touch:
-✉️ Email: chetanyogeshwagh@gmail.com
+✉️ Email: chetanywagh27@gmail.com
 
 
 🌐 Connect with me:
@@ -48,15 +48,6 @@ Scikit-learn: Building Machine Learning models with flair
 Matplotlib & Seaborn: Visualizing data like art 🎨
 
 Git: Version control made simple
-
-
-
-📊 My GitHub Stats:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chetan-wagh&show_icons=true&theme=dark" width="45%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan-wagh&layout=compact&theme=dark" width="45%" /> </p>
-🎉 Fun Fact:
-I learn best through real-world projects and memes. Yes, memes! 😄 They make the learning journey way more fun.
-
-
 
 
 

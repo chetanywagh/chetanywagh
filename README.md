@@ -1,5 +1,3 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Turning+Data+Into+Insights%2C+And+Insights+Into+Impact." />
-
 
 💻 Hello, I'm Chetan Yogesh Wagh!
 
